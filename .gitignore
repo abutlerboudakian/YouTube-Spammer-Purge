@@ -123,3 +123,6 @@ token.pickle
 
 # Misc temp files
 .dccache
+
+# Google OAuth Credentials
+*/*/credentials.json
