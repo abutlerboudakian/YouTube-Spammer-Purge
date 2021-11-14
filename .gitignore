@@ -126,3 +126,6 @@ token.pickle
 
 # Google OAuth Credentials
 */*/credentials.json
+# Ignore log files
+Spam_*.txt
+
