@@ -129,3 +129,4 @@ token.pickle
 # Ignore log files
 Spam_*.txt
 
+*.sqlite3
